@@ -1,3 +1,4 @@
 # git_test
-# 这是测试文本2
 
+# 修改readme 测试提交 
+主分支 test2
