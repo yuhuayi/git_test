@@ -25,3 +25,4 @@ private void getInt(){
 ***
 
 	使用sourceTree 来管理git-flow
+	v1.3
