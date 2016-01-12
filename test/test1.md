@@ -23,3 +23,5 @@ private void getInt(){
 	然后切回master , 观察此文件变化
  
 ***
+
+	使用sourceTree 来管理git-flow
