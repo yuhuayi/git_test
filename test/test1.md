@@ -16,3 +16,10 @@ public void getName(){}
 private void getInt(){
 
  }
+
+***
+ 
+	develop 合并到master之后 切回 develop , 继续修改 test1.md 
+	然后切回master , 观察此文件变化
+ 
+***
